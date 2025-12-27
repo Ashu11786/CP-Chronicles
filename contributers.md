@@ -58,6 +58,7 @@
 | Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
 |Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
 | Naman Pal              | Naman2251                | IIIT Allahabad
+| Ashutosh Kesarwani     | Lucifer-0612             | HIT Haldia
 | Samarth Patel          | capricemoto              | IIIT Allahbad                                                     |
 | Divakar Bhatt          | wodivakar                | IIIT Allahabad                                                  |
 <!-- ADD ABOVE THIS -->
